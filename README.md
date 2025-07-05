@@ -10,9 +10,10 @@ A Linux-based network monitoring tool built with **Python**, **Flask**, and **SQ
 
 ---
 
-## 📷 Preview
+## 📸 Dashboard Preview
 
-![screenshot](https://drive.google.com/file/d/1Vij6N6zCak4eXAcpDHE2ZuI7vUC83ZIm/view?usp=sharing)
+![Dashboard Screenshot](https://drive.google.com/uc?export=view&id=1Vij6N6zCak4eXAcpDHE2ZuI7vUC83ZIm)
+
 
 
 ---
