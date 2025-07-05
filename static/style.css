@@ -1,0 +1,41 @@
+body {
+    font-family: Arial;
+    padding: 20px;
+    background-color: #f4f4f4;
+}
+
+h1 {
+    color: #333;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    background: white;
+}
+
+th, td {
+    padding: 12px;
+    border: 1px solid #ddd;
+    text-align: center;
+}
+
+.online {
+    background-color: #d4edda;
+}
+
+.offline {
+    background-color: #f8d7da;
+}
+.export-button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    text-decoration: none;
+    border-radius: 6px;
+    margin-bottom: 20px;
+}
+.export-button:hover {
+    background-color: #0056b3;
+}
